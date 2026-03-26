@@ -1,7 +1,3 @@
-add_retention_policy
-find rm
-SleuthKit
-<img width="1170" height="2532" alt="image" src="c
 puts "cdr_recovery.tcl script"
  
  # user vars
